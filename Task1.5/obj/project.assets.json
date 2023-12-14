@@ -8,23 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gr624_addan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gr624_addan\\RiderProjects\\ConsoleApp1\\Task1.5\\Task1.5.csproj",
+      "projectUniqueName": "C:\\Users\\Дмитрий\\RiderProjects\\ConsoleApp2\\godnessprog\\Task1.5\\Task1.5.csproj",
       "projectName": "Task1.5",
-      "projectPath": "C:\\Users\\gr624_addan\\RiderProjects\\ConsoleApp1\\Task1.5\\Task1.5.csproj",
-      "packagesPath": "C:\\Users\\gr624_addan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gr624_addan\\RiderProjects\\ConsoleApp1\\Task1.5\\obj\\",
+      "projectPath": "C:\\Users\\Дмитрий\\RiderProjects\\ConsoleApp2\\godnessprog\\Task1.5\\Task1.5.csproj",
+      "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Дмитрий\\RiderProjects\\ConsoleApp2\\godnessprog\\Task1.5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gr624_addan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
