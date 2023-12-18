@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\bin\Debug\net7.0\task6.3.exe
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\bin\Debug\net7.0\task6.3.deps.json
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\bin\Debug\net7.0\task6.3.runtimeconfig.json
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\bin\Debug\net7.0\task6.3.dll
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\bin\Debug\net7.0\task6.3.pdb
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\task6.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\task6.3.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\task6.3.AssemblyInfo.cs
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\task6.3.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\task6.3.dll
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\refint\task6.3.dll
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\task6.3.pdb
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\task6.3.genruntimeconfig.cache
+C:\Users\Дмитрий\RiderProjects\ConsoleApp2\godnessprog\task6.3\obj\Debug\net7.0\ref\task6.3.dll
