@@ -10,7 +10,7 @@
                 string[] nums = line.Split(' ');
                 reader.Close();
                 int min = int.MaxValue;
-                int sum = 0;
+                int sum = 1;
                 int index = 0;
 
                 for (int i = 0; i < nums.Length - 1; i++)
@@ -21,13 +21,17 @@
                         index = i; 
                         min = num;
                     }
-
-                    if (num > min) 
+                }
+                for (int i = 0; i < nums.Length; i++)
+                {
+                    int num2 = int.Parse(nums[i]);
+                    if (i > index)
                     {
-                        sum += num; 
+                        sum *= num2;
                     }
                 }
-                Console.WriteLine($"Sum {min} is {sum} ");
+                Console.WriteLine($"Minimal number: {min}");
+                Console.WriteLine($"Sum of numbers after the minimum: {sum}");
             }
         }
     }
